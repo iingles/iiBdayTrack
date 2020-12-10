@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="iiBdayTrack.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <BoxView BackgroundColor="Gray"/>
+        <Label Text="Birthday Party"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               TextColor="Black"
+               FontSize="25"/>
+        <Picker x:Name="PckrFriends"
+                Title="Select a Friend"
+                Grid.Row="1"
+                FontSize="30"
+                VerticalOptions="Center"/>
+        <Button x:Name="BtnDetails"
+                Text="Friend Details"
+                FontSize="30"
+                Clicked="BtnDetails_Clicked"
+                Grid.Row="2"/>
+        <BoxView BackgroundColor="Gray"
+                 Grid.Row="3"/>
+    </Grid>
+
+</ContentPage>
