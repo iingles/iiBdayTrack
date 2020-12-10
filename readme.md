@@ -5,14 +5,15 @@
 
 --- 
 **Code**
- - [Main Page XAML Code](https://github.com/iingles/iiLottoGame/blob/master/iiLottoGame/MainPage.xaml)
- - [Main Page C# Code](https://github.com/iingles/iiLottoGame/blob/master/iiLottoGame/MainPage.xaml.cs)
+ - [Main Page XAML Code](https://github.com/iingles/iiBdayTrack/blob/master/iiBdayTrack/MainPage.xaml)
+ - [Main Page C# Code](https://github.com/iingles/iiBdayTrack/blob/master/iiBdayTrack/MainPage.xaml.cs)
+ - [Friend Class](https://github.com/iingles/iiBdayTrack/blob/master/iiBdayTrack/Friend.cs)
 
 **Screenshots**
- - [Main Screen](https://github.com/iingles/iiLottoGame/blob/master/Screenshot_20201119-102044.jpg)
- - [Won alert](https://github.com/iingles/iiLottoGame/blob/master/Screenshot_20201119-102446.jpg)
- - [Random Numbers](https://github.com/iingles/iiLottoGame/blob/master/Screenshot_20201119-102553.jpg)
- - [Lost Alert](https://github.com/iingles/iiLottoGame/blob/master/Screenshot_20201119-103134.jpg)
+ - [Main Screen](https://github.com/iingles/iiBdayTrack/blob/master/main-screen.jpg)
+ - [Picker List](https://github.com/iingles/iiBdayTrack/blob/master/picker-list.jpg)
+ - [Invalid Alert](https://github.com/iingles/iiBdayTrack/blob/master/invalid-alert.jpg)
+ - [Friend Data](https://github.com/iingles/iiBdayTrack/blob/master/friend-data.jpg)
 
 
  
